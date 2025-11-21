@@ -8,7 +8,7 @@ I am passionate about building **practical AI & ML solutions** and creating **in
 ## 🔧 Tech Stack
 
 - **Programming Languages:** Python, JavaScript, HTML, CSS, PHP
-- **Data Science & ML:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Seaborn  
+- **Data Science & ML:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Seaborn, Optuna  
 - **Deep Learning / AI:** NLP, Transformers  
 - **Web Development:** React.js, Node.js, Express.js, Tailwind CSS  
 - **Tools & Platforms:** Git, GitHub, Docker, Jupyter Notebook, VS Code, ChatGPT, Claude, Cursor
