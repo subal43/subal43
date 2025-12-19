@@ -24,7 +24,7 @@ I am passionate about building **practical AI & ML solutions** and creating **in
 | [Paytm Clone](https://github.com/subal43/paytm-clone) | A fully functional web app clone showcasing web development skills. |
 | [Portfolio Website](https://github.com/subal43/portfolio-website) | Personal portfolio built with React.js to showcase projects and skills. |
 
-> 💡 *Tip: Make sure these project repos have clear READMEs with visuals and results.*
+
 
 ---
 
