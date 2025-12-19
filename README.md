@@ -22,8 +22,8 @@ I am passionate about building **practical AI & ML solutions** and creating **in
 | Project | Description |
 |---|---|
 
-| [California House Price Prediction System](https://github.com/subal43/DS-California-House-Price-Prediction.git) | A fully functional California House Price Prediction showcasing Data Science skills. |
-| [Social Media Sentiment Analyzer Trend Prediction System](https://github.com/subal43/DS-Social-Media-Sentiment-Analyzer-Trend-Prediction.git) | A fully functional Social Media Sentiment Analyzer Trend Prediction System showcasing Data Science skills. |
+| [California House Price Prediction System](https://github.com/subal43/DS-California-House-Price-Prediction.git) | A fully functional California House Price Prediction showcasing Data Science skills. |<br>
+| [Social Media Sentiment Analyzer Trend Prediction System](https://github.com/subal43/DS-Social-Media-Sentiment-Analyzer-Trend-Prediction.git) | A fully functional Social Media Sentiment Analyzer Trend Prediction System showcasing Data Science skills. |<br>
 | [Portfolio Website](https://github.com/subal43/portfolio-website) | Personal portfolio built with React.js to showcase projects and skills. |
 
 
