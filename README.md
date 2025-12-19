@@ -21,7 +21,8 @@ I am passionate about building **practical AI & ML solutions** and creating **in
 | Project | Description |
 |---|---|
 
-| [Paytm Clone](https://github.com/subal43/paytm-clone) | A fully functional web app clone showcasing web development skills. |
+| [California House Price Prediction System](https://github.com/subal43/DS-California-House-Price-Prediction.git) | A fully functional California House Price Prediction showcasing Data Science skills. |
+||
 | [Portfolio Website](https://github.com/subal43/portfolio-website) | Personal portfolio built with React.js to showcase projects and skills. |
 
 
